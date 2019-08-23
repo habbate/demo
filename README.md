@@ -1,8 +1,7 @@
-#This is a demo project
-----
-This is a simple readme for a demo project
+# Demo Project README
 
-#REAMDE22
+This is a simple readme fle
 
+# Heading 2
 
-on a new branch
+I hope this isn't much of a problem
